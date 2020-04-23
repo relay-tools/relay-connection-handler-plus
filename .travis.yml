@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+  - stable
+
+cache:
+  yarn: true
+  npm: true
+
+branches:
+  only:
+    - master

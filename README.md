@@ -1,2 +1,3 @@
-# relay-connection-handler-plus
-Relay connection handler with additional functionality
+# Relay Connection Handler Plus!
+
+Relay connection handler with additional functionality.
