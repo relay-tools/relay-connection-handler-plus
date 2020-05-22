@@ -21,7 +21,7 @@ function update(store: RecordSourceProxy, payload: HandleFieldPayload) {
 
   const record = store.get(payload.dataID)!;
 
-  const prevHandleKeys: {} | undefined = record.getValue(
+  const prevHandleKeys: Record<string, unknown> | undefined = record.getValue(
     CONNECTION_HANDLE_KEYS,
     {
       handleName,
