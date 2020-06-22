@@ -42,7 +42,7 @@
   },
   "prettier": "@4c/prettier-config",
   "dependencies": {
-    "@types/relay-runtime": "^8.0.8"
+    "@types/relay-runtime": "^9.1.0"
   },
   "devDependencies": {
     "@4c/babel-preset": "^7.3.6",
@@ -62,6 +62,7 @@
     "jest": "^26.0.1",
     "lint-staged": "^10.2.11",
     "prettier": "^2.0.5",
+    "relay-runtime": "^9.1.0",
     "typescript": "^3.9.5"
   },
   "peerDependencies": {
