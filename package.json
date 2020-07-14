@@ -66,6 +66,6 @@
     "typescript": "^3.9.6"
   },
   "peerDependencies": {
-    "relay-runtime": "^9.0.0"
+    "relay-runtime": ">=9.0.0"
   }
 }
