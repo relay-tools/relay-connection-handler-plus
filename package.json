@@ -1,6 +1,6 @@
 {
   "name": "relay-connection-handler-plus",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Relay connection handler with additional functionality",
   "keywords": [
     "relay",
