@@ -38,7 +38,7 @@
     }
   },
   "lint-staged": {
-    "*": "yarn 4c format"
+    "*": "yarn 4c lint --fix --prettier-ignore .eslintignore"
   },
   "prettier": "@4c/prettier-config",
   "dependencies": {
