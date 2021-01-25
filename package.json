@@ -46,7 +46,7 @@
   },
   "devDependencies": {
     "@4c/babel-preset": "^7.4.1",
-    "@4c/cli": "^2.1.12",
+    "@4c/cli": "^2.1.13",
     "@4c/prettier-config": "^1.1.0",
     "@4c/tsconfig": "^0.3.1",
     "@babel/preset-typescript": "^7.12.7",
@@ -62,7 +62,7 @@
     "jest": "^26.6.3",
     "lint-staged": "^10.5.3",
     "prettier": "^2.2.1",
-    "relay-runtime": "^10.1.2",
+    "relay-runtime": "^10.1.3",
     "typescript": "^4.1.3"
   },
   "peerDependencies": {
