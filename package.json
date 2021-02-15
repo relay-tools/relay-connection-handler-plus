@@ -49,7 +49,7 @@
     "@4c/cli": "^2.2.0",
     "@4c/prettier-config": "^1.1.0",
     "@4c/tsconfig": "^0.3.1",
-    "@babel/preset-typescript": "^7.12.13",
+    "@babel/preset-typescript": "^7.12.16",
     "@typescript-eslint/eslint-plugin": "^3.10.1",
     "@typescript-eslint/parser": "^3.10.1",
     "babel-plugin-add-module-exports": "^1.0.4",
@@ -63,7 +63,7 @@
     "lint-staged": "^10.5.4",
     "prettier": "^2.2.1",
     "relay-runtime": "^10.1.3",
-    "typescript": "^4.1.3"
+    "typescript": "^4.1.5"
   },
   "peerDependencies": {
     "relay-runtime": ">=9.0.0"
