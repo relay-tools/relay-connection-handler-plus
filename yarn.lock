@@ -54,16 +54,16 @@
     text-table "^0.2.0"
     yargs "^16.2.0"
 
-"@4c/cli@^2.2.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@4c/cli/-/cli-2.2.0.tgz#e8de98465dc04c806939cd2b1592458052fee189"
-  integrity sha512-wBWy7HR9m71vtZ/9XU97l3GdLon3/SIZDeFAPFutaL/w3pCFs79xr65oQi4eo04PMo+Ty9IuRPSTeh1c+i5xyA==
+"@4c/cli@^2.2.1":
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@4c/cli/-/cli-2.2.1.tgz#4af0c6393532ceba6a0ba2ce98c678ffe47e7b07"
+  integrity sha512-8hzsafqxBhucbmKjep6v3aJZVYAymmyr/yfSJ4vsHZsXZSk75k3Hmd6yf9xejY9d63A8bhiZPm7QyGViRB7AHQ==
   dependencies:
     "@4c/build" "^2.3.0"
     "@4c/init" "^3.1.0"
     "@4c/intl" "^1.2.22"
     "@4c/rollout" "^2.2.0"
-    "@4c/start" "^2.3.0"
+    "@4c/start" "^2.4.0"
     pedantic "^5.1.0"
     svg2c "^1.5.0"
     ts-doctor "^1.3.0"
@@ -127,10 +127,10 @@
     rxjs "^6.5.2"
     semver "^7.3.4"
 
-"@4c/start@^2.3.0":
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/@4c/start/-/start-2.3.0.tgz#cdbdd9ae86e8ecba4a1c5a076e175e7507a84a06"
-  integrity sha512-XoPJH+dtAdaiXID4CDK6X3gq6JEbAqvEbdMkGdlxbGd5t+IHjzoEPrMzMP6niC+TccaV8E8tD4Hrj+kc8/xr8A==
+"@4c/start@^2.4.0":
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/@4c/start/-/start-2.4.0.tgz#3c84b204823815a3f96efc43600267e467653ae0"
+  integrity sha512-GaYSPbYVmo5j9UrgMYz3vzLCSDDfc/KqdkqLjo4Js/aV3ISSLtzQd5dcgQtdQfvKS3/RJbuLFL3zpGPJ42T1qA==
   dependencies:
     "@4c/cli-core" "^2.2.0"
     "@babel/code-frame" "^7.12.13"
