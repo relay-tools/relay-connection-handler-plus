@@ -54,16 +54,16 @@
     text-table "^0.2.0"
     yargs "^16.2.0"
 
-"@4c/cli@^2.2.1":
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/@4c/cli/-/cli-2.2.1.tgz#4af0c6393532ceba6a0ba2ce98c678ffe47e7b07"
-  integrity sha512-8hzsafqxBhucbmKjep6v3aJZVYAymmyr/yfSJ4vsHZsXZSk75k3Hmd6yf9xejY9d63A8bhiZPm7QyGViRB7AHQ==
+"@4c/cli@^2.2.2":
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/@4c/cli/-/cli-2.2.2.tgz#b25dd1c24909ebada2e500e692c82a7cfa41336f"
+  integrity sha512-lf66f4Zgqv8Lq5DFB+ZSsPcOeJ499Yz7tMpoUW/JKWCfiuSAtGsaZdhpaKDvnMxaPzw3F4BAWw1SjlpcrT2XUw==
   dependencies:
     "@4c/build" "^2.3.0"
     "@4c/init" "^3.1.0"
-    "@4c/intl" "^1.2.22"
+    "@4c/intl" "^1.3.0"
     "@4c/rollout" "^2.2.0"
-    "@4c/start" "^2.4.0"
+    "@4c/start" "^2.4.1"
     pedantic "^5.1.0"
     svg2c "^1.5.0"
     ts-doctor "^1.3.0"
@@ -93,10 +93,10 @@
     prettier "^2.2.1"
     yargs "^16.2.0"
 
-"@4c/intl@^1.2.22":
-  version "1.2.22"
-  resolved "https://registry.yarnpkg.com/@4c/intl/-/intl-1.2.22.tgz#fb75a9d7276eb7242397231d417d7184bfb4cc97"
-  integrity sha512-R79zBdNHPo+58aP53+OMIT2ZYgWUkI633frCVOqGekHwoTE9kdrmO3LtdDsYYSqMVUZIHAD8y52iIll76aHEwQ==
+"@4c/intl@^1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@4c/intl/-/intl-1.3.0.tgz#f78e85a079bd41fbfea0d2a5d29fee9f3ba059a5"
+  integrity sha512-x6joVEsj0pzvWtI4HFOrBPWZN+CP4QybmZhaMOjCpUg7d8AX6NH0YqkcgaGwfl/HWXECjjwKNokWIL09p5IzvQ==
   dependencies:
     "@4c/cli-core" "^2.2.0"
     chalk "^4.0.0"
@@ -127,10 +127,10 @@
     rxjs "^6.5.2"
     semver "^7.3.4"
 
-"@4c/start@^2.4.0":
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/@4c/start/-/start-2.4.0.tgz#3c84b204823815a3f96efc43600267e467653ae0"
-  integrity sha512-GaYSPbYVmo5j9UrgMYz3vzLCSDDfc/KqdkqLjo4Js/aV3ISSLtzQd5dcgQtdQfvKS3/RJbuLFL3zpGPJ42T1qA==
+"@4c/start@^2.4.1":
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/@4c/start/-/start-2.4.1.tgz#a81591b5953bf34dce9f7ba4156586457209ea6e"
+  integrity sha512-yoGI9UzWqu+bzJR6wRlwyaGY1LeC4+FQ2fJlOfFYcbxgMvfGVMr7QjSBaiRBXcdcTRnJF1PN/oIKhtrjljc8/A==
   dependencies:
     "@4c/cli-core" "^2.2.0"
     "@babel/code-frame" "^7.12.13"
