@@ -146,10 +146,10 @@
     webpack-notifier "^1.13.0"
     webpackbar "^5.0.0-3"
 
-"@4c/tsconfig@^0.3.1":
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/@4c/tsconfig/-/tsconfig-0.3.1.tgz#90ff0cb4fddde7114ee57eeee912737d017ba0e9"
-  integrity sha512-FBhSdtjfitTiaq590kpxtcnCJsF1LeahEjl5ZYDhAeHT/1pn7i8aho2R1u5eVfSxgYrNy/MVizRer3DwBJh9UA==
+"@4c/tsconfig@^0.4.0":
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/@4c/tsconfig/-/tsconfig-0.4.0.tgz#30088bb8689c6db0f9dcf1426e1552a86181aacd"
+  integrity sha512-71kWn/hccTUYeQpnxUvKFDaGetQj7T1+Dd18Eo1RAnRsqLznk0wFykm1KFOuNGxMNUupHRoe9Z8C6LNR3il8Eg==
   dependencies:
     typescript-workspace-plugin "^2.0.1"
 
@@ -3624,10 +3624,10 @@ eslint-config-4catalyzer-typescript@^2.0.4:
     babel-eslint "^10.0.3"
     eslint-import-resolver-typescript "^2.2.1"
 
-eslint-config-4catalyzer@^1.1.5:
-  version "1.1.5"
-  resolved "https://registry.yarnpkg.com/eslint-config-4catalyzer/-/eslint-config-4catalyzer-1.1.5.tgz#6151d1c2406754ce29c7fd07eeeb6825ee887d19"
-  integrity sha512-50taSYb8sbqI0xBP+K7mfNs3gDqzet7VrZI5jPkuDPZ7hqK7HfLQUKY/Qzpaq0E0myMVmeu8uloc0ndZsg02bA==
+eslint-config-4catalyzer@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-4catalyzer/-/eslint-config-4catalyzer-1.2.0.tgz#702974432aad7f98547249543d274a7de7877b67"
+  integrity sha512-+u5EdVoZGxLlS7lmZ8zoYTbuwkasUDA6mmYuUqiu/LQg2ivrEjRSaI4MFrHzS2SfCMsXEtz3D5qf8lt+yi6Gyw==
   dependencies:
     babel-eslint "^10.0.3"
     eslint-config-airbnb-base "^14.0.0"
@@ -7401,10 +7401,10 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier@^2.2.1, prettier@^2.3.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.3.0.tgz#b6a5bf1284026ae640f17f7ff5658a7567fc0d18"
-  integrity sha512-kXtO4s0Lz/DW/IJ9QdWhAf7/NmPWQXkFr/r/WkR3vyI+0v8amTDxiaQSLzs8NBlytfLWX/7uQUMIW677yLKl4w==
+prettier@^2.2.1, prettier@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.3.1.tgz#76903c3f8c4449bc9ac597acefa24dc5ad4cbea6"
+  integrity sha512-p+vNbgpLjif/+D+DwAZAbndtRrR0md0MwfmOVN9N+2RgyACMT+7tfaRnT+WDPkqnuVwleyuBIG2XBxKDme3hPA==
 
 pretty-format@^26.6.2:
   version "26.6.2"
