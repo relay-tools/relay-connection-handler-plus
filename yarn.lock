@@ -55,16 +55,16 @@
     text-table "^0.2.0"
     yargs "^16.2.0"
 
-"@4c/cli@^2.2.7":
-  version "2.2.7"
-  resolved "https://registry.yarnpkg.com/@4c/cli/-/cli-2.2.7.tgz#d976e8d9d83f524949fe3390ceb1149a8f16d115"
-  integrity sha512-38Y7b5IzgvWS2zx3ZJ2XDgb/W1ygFPiZM1ewyK9xFEwskZdjkXPYIMjCWL0rIrgL2/2am9AzU/slRHNFwV75LA==
+"@4c/cli@^2.2.8":
+  version "2.2.8"
+  resolved "https://registry.yarnpkg.com/@4c/cli/-/cli-2.2.8.tgz#89a6664361ac57e03b31fd3d582c9f15a0fabc0b"
+  integrity sha512-+1qpLszVYDDg+fP2oxGEvFtyW0MrbUzE8D1dnUjiw4LqqlAyjUNDwOXRxuI8JCsqasJA7m4fsRRJwaPk/ZUMUg==
   dependencies:
     "@4c/build" "^2.3.2"
     "@4c/init" "^3.2.0"
     "@4c/intl" "^1.3.2"
     "@4c/rollout" "^2.2.2"
-    "@4c/start" "^2.5.2"
+    "@4c/start" "^2.5.3"
     pedantic "^5.1.2"
     svg2c "^1.5.2"
     ts-doctor "^1.3.2"
@@ -129,10 +129,10 @@
     rxjs "^6.5.2"
     semver "^7.3.4"
 
-"@4c/start@^2.5.2":
-  version "2.5.2"
-  resolved "https://registry.yarnpkg.com/@4c/start/-/start-2.5.2.tgz#4e676d3f1d6ea46643e16a1bc78245e299ae572b"
-  integrity sha512-mOWuf1Gllofaeq+CWAVy19RIH6lzFQRlUmLEU0m8Tn+b+v+c9ZsR+yxhxFD0BkVSmqe5h4ZoDaPsTIPhDBSejQ==
+"@4c/start@^2.5.3":
+  version "2.5.3"
+  resolved "https://registry.yarnpkg.com/@4c/start/-/start-2.5.3.tgz#1caa58c30f8299d81dc21d80a1b8fea03546ed65"
+  integrity sha512-fXV0Wzp5fifIYW5nzdAoGFPvE+3qjsJDeDsLtsNXPFAuRWSDQtzUH64pnbV7CS/KJrt0sp656Y5VtrA4p3q4sQ==
   dependencies:
     "@4c/cli-core" "^2.3.0"
     "@babel/code-frame" "^7.12.13"
@@ -9012,10 +9012,10 @@ typescript-workspace-plugin@^2.0.1:
   resolved "https://registry.yarnpkg.com/typescript-workspace-plugin/-/typescript-workspace-plugin-2.0.1.tgz#3d88be1c35a7fdf2c0160c8cf569ca8993439a12"
   integrity sha512-xjIYNFlPIA7IWXvnOFJoAeHPbPJSo0AiQDCRJzaAp3+xZwz6maTgeRLB0oEHVtCqz4Q1CDN6U9kh/2z8sxdDBQ==
 
-typescript@^4.1.3, typescript@^4.3.4:
-  version "4.3.4"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.3.4.tgz#3f85b986945bcf31071decdd96cf8bfa65f9dcbc"
-  integrity sha512-uauPG7XZn9F/mo+7MrsRjyvbxFpzemRjKEZXS4AK83oP2KKOJPvb+9cO/gmnv8arWZvhnjVOXz7B49m1l0e9Ew==
+typescript@^4.1.3, typescript@^4.3.5:
+  version "4.3.5"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.3.5.tgz#4d1c37cc16e893973c45a06886b7113234f119f4"
+  integrity sha512-DqQgihaQ9cUrskJo9kIyW/+g0Vxsk8cDtZ52a3NGh0YNTfpUSArXSohyUGnvbPazEPLu398C0UxmKSOrPumUzA==
 
 ua-parser-js@^0.7.18:
   version "0.7.21"
