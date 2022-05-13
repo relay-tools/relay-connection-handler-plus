@@ -7,13 +7,14 @@
 ```js
 import ConnectionHandler from 'relay-connection-handler-plus';
 import { Environment } from 'relay-runtime';
+import RelayDefaultHandlerProvider from "relay-runtime/lib/handlers/RelayDefaultHandlerProvider";
 
 function handlerProvider(handle) {
   switch (handle) {
     case 'connection':
       return ConnectionHandler;
     default:
-      throw new Error(`no handler configured for ${handle}`);
+      return RelayDefaultHandlerProvider(handle);
   }
 }
 
