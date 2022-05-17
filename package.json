@@ -45,7 +45,7 @@
     "@types/relay-runtime": ">=9.1.0"
   },
   "devDependencies": {
-    "@4c/babel-preset": "^7.4.1",
+    "@4c/babel-preset": "^9.1.0",
     "@4c/cli": "^2.2.7",
     "@4c/prettier-config": "^1.1.0",
     "@4c/tsconfig": "^0.4.0",
