@@ -42,7 +42,7 @@
   },
   "prettier": "@4c/prettier-config",
   "dependencies": {
-    "@types/relay-runtime": ">=9.1.0"
+    "@types/relay-runtime": ">=13.0.3"
   },
   "devDependencies": {
     "@4c/babel-preset": "^7.4.1",
