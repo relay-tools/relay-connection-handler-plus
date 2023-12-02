@@ -55,7 +55,7 @@
     "babel-plugin-add-module-exports": "^1.0.4",
     "eslint-config-4catalyzer": "^1.2.0",
     "eslint-config-4catalyzer-typescript": "^2.0.4",
-    "eslint-config-prettier": "^6.15.0",
+    "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-import": "^2.23.4",
     "eslint-plugin-prettier": "^3.4.0",
     "husky": "^4.3.8",
