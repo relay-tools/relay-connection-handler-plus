@@ -1598,10 +1598,10 @@
   resolved "https://registry.yarnpkg.com/@types/q/-/q-1.5.2.tgz#690a1475b84f2a884fd07cd797c00f5f31356ea8"
   integrity sha512-ce5d3q03Ex0sy4R14722Rmt6MT07Ua+k4FwDfdcToYJcMKNtRVQvJ6JCAPdAmAnbRb6CsX6aYb9m96NGod9uTw==
 
-"@types/relay-runtime@>=9.1.0":
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/@types/relay-runtime/-/relay-runtime-10.0.0.tgz#9c647bafac6f81f0e6f34ee23439be0364d03bb5"
-  integrity sha512-AZdGqfPSqnHKbFQdZwukGGwbmRqqm8ykS3B9/akr62NtMMxE4og9PHZUAKGoUQvIRYErYweDz/Ebw32NVG9jcA==
+"@types/relay-runtime@>=17.0.4":
+  version "17.0.4"
+  resolved "https://registry.yarnpkg.com/@types/relay-runtime/-/relay-runtime-17.0.4.tgz#428526fc3e6dfb6e0a5730c38ad521cb1eea189b"
+  integrity sha512-fB77br4lXlBYM/HpI6VI6KCrj5pw0LiAnkZOkffjirNYso+dzXGWkeIm0G0MGszD8WY1et+r1Uj2TA6rscBXNQ==
 
 "@types/schema-utils@^2.4.0":
   version "2.4.0"
